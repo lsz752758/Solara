@@ -1,1 +1,86 @@
-LyogU29sYXJhIOmfs+mikeaSreaUvuS/ruWkjeihpeS4gSAoMjAyNi0xMC0xMykKICogMS4g572R5piT5LqRL+mFt+aIkemfs+mikee7n+S4gOi1sOermeWGhSAvcHJveHkg5Luj55CG77yM6YG/5YWN5rWP6KeI5Zmo55u06L+e6KKr6Ziy55uX6ZO+5oiW572R57uc5oqW5Yqo5Y2h5L2PCiAqIDIuIHdhaXRGb3JBdWRpb1JlYWR5IOWinuWKoCAxNSDnp5LotoXml7bvvIzkuI3lho3ml6DpmZDovazlnIgKICog5Yqg6L296aG65bqP77ya5ZyoIGpzL2luZGV4LmpzIOS5i+WQjuW8leWFpe+8jOimhuebluWQjOWQjeWFqOWxgOWHveaVsAogKi8KKGZ1bmN0aW9uICgpIHsKICAndXNlIHN0cmljdCc7CgogIC8vIC0tLSAxLiDpn7PpopHlnLDlnYDotbDnq5nlhoXku6PnkIYgLS0tCiAgd2luZG93LmJ1aWxkQXVkaW9Qcm94eVVybCA9IGZ1bmN0aW9uICh1cmwpIHsKICAgIGlmICghdXJsIHx8IHR5cGVvZiB1cmwgIT09ICdzdHJpbmcnKSByZXR1cm4gdXJsOwogICAgdHJ5IHsKICAgICAgdmFyIHBhcnNlZFVybCA9IG5ldyBVUkwodXJsLCB3aW5kb3cubG9jYXRpb24uaHJlZik7CiAgICAgIGlmICgvKF58XC4pKGt1d29cLmNufG11c2ljXC4xMjZcLm5ldCkkL2kudGVzdChwYXJzZWRVcmwuaG9zdG5hbWUpKSB7CiAgICAgICAgcmV0dXJuICcvcHJveHk/dGFyZ2V0PScgKyBlbmNvZGVVUklDb21wb25lbnQocGFyc2VkVXJsLnRvU3RyaW5nKCkpOwogICAgICB9CiAgICAgIHJldHVybiBwYXJzZWRVcmwudG9TdHJpbmcoKTsKICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgaWYgKHdpbmRvdy5jb25zb2xlKSBjb25zb2xlLndhcm4oJ+aXoOazleino+aekOmfs+mikeWcsOWdgO+8jOi3s+i/h+S7o+eQhicsIGUpOwogICAgICByZXR1cm4gdXJsOwogICAgfQogIH07CgogIC8vIC0tLSAyLiDpn7PpopHlsLHnu6rnrYnlvoXliqDotoXml7YgLS0tCiAgd2luZG93LndhaXRGb3JBdWRpb1JlYWR5ID0gZnVuY3Rpb24gKHBsYXllciwgdGltZW91dE1zKSB7CiAgICBpZiAoIXBsYXllcikgcmV0dXJuIFByb21pc2UucmVzb2x2ZSgpOwogICAgaWYgKHBsYXllci5yZWFkeVN0YXRlID49IDEpIHJldHVybiBQcm9taXNlLnJlc29sdmUoKTsKICAgIHRpbWVvdXRNcyA9IHRpbWVvdXRNcyB8fCAxNTAwMDsKICAgIHJldHVybiBuZXcgUHJvbWlzZShmdW5jdGlvbiAocmVzb2x2ZSwgcmVqZWN0KSB7CiAgICAgIHZhciB0aW1lciA9IG51bGw7CiAgICAgIGZ1bmN0aW9uIGNsZWFudXAoKSB7CiAgICAgICAgaWYgKHRpbWVyKSBjbGVhclRpbWVvdXQodGltZXIpOwogICAgICAgIHBsYXllci5yZW1vdmVFdmVudExpc3RlbmVyKCdsb2FkZWRtZXRhZGF0YScsIG9uTG9hZGVkKTsKICAgICAgICBwbGF5ZXIucmVtb3ZlRXZlbnRMaXN0ZW5lcignZXJyb3InLCBvbkVycm9yKTsKICAgICAgfQogICAgICBmdW5jdGlvbiBvbkxvYWRlZCgpIHsgY2xlYW51cCgpOyByZXNvbHZlKCk7IH0KICAgICAgZnVuY3Rpb24gb25FcnJvcigpIHsgY2xlYW51cCgpOyByZWplY3QobmV3IEVycm9yKCfpn7PpopHliqDovb3lpLHotKUnKSk7IH0KICAgICAgZnVuY3Rpb24gb25UaW1lb3V0KCkgeyBjbGVhbnVwKCk7IHJlamVjdChuZXcgRXJyb3IoJ+mfs+mikeWKoOi9vei2heaXtigxNeenkinvvIzor7fmo4Dmn6XnvZHnu5zlkI7ph43or5UnKSk7IH0KICAgICAgdGltZXIgPSBzZXRUaW1lb3V0KG9uVGltZW91dCwgdGltZW91dE1zKTsKICAgICAgcGxheWVyLmFkZEV2ZW50TGlzdGVuZXIoJ2xvYWRlZG1ldGFkYXRhJywgb25Mb2FkZWQsIHsgb25jZTogdHJ1ZSB9KTsKICAgICAgcGxheWVyLmFkZEV2ZW50TGlzdGVuZXIoJ2Vycm9yJywgb25FcnJvciwgeyBvbmNlOiB0cnVlIH0pOwogICAgfSk7CiAgfTsKCiAgLy8gLS0tIDMuIOatjOivjeWKoOi9vemYsuS4su+8mmZldGNoIOi/lOWbnuWQjuehruiupOS7jeaYr+W9k+WJjeatjOabsuaJjeabtOaWsOaYvuekuiAtLS0KICB3aW5kb3cubG9hZEx5cmljcyA9IGFzeW5jIGZ1bmN0aW9uIChzb25nKSB7CiAgICB0cnkgewogICAgICB2YXIgbHlyaWNVcmwgPSB3aW5kb3cuQVBJLmdldEx5cmljKHNvbmcpOwogICAgICBpZiAod2luZG93LmRlYnVnTG9nKSB3aW5kb3cuZGVidWdMb2coJ+iOt+WPluatjOivjVVSTDogJyArIGx5cmljVXJsKTsKCiAgICAgIHZhciBseXJpY0RhdGEgPSBhd2FpdCB3aW5kb3cuQVBJLmZldGNoSnNvbihseXJpY1VybCk7CgogICAgICAvLyDlhbPplK7kv67lpI3vvJrov5Tlm57ml7blpoLmnpzlt7LliIfmrYzvvIzkuKLlvIPml6fmrYzor43vvIzkuI3opobnm5bmmL7npLoKICAgICAgaWYgKHdpbmRvdy5zdGF0ZSAmJiB3aW5kb3cuc3RhdGUuY3VycmVudFNvbmcgIT09IHNvbmcpIHsKICAgICAgICBpZiAod2luZG93LmRlYnVnTG9nKSB3aW5kb3cuZGVidWdMb2coJ+atjOivjeW3sui/h+acn++8iOWIh+atjO+8ie+8jOS4ouW8gycpOwogICAgICAgIHJldHVybjsKICAgICAgfQoKICAgICAgaWYgKGx5cmljRGF0YSAmJiBseXJpY0RhdGEubHlyaWMpIHsKICAgICAgICB3aW5kb3cucGFyc2VMeXJpY3MobHlyaWNEYXRhLmx5cmljKTsKICAgICAgICB3aW5kb3cuZG9tLmx5cmljcy5jbGFzc0xpc3QucmVtb3ZlKCdlbXB0eScpOwogICAgICAgIHdpbmRvdy5kb20ubHlyaWNzLmRhdGFzZXQucGxhY2Vob2xkZXIgPSAnZGVmYXVsdCc7CiAgICAgICAgaWYgKHdpbmRvdy5kZWJ1Z0xvZykgd2luZG93LmRlYnVnTG9nKCfmrYzor43liqDovb3miJDlip86ICcgKyB3aW5kb3cuc3RhdGUubHlyaWNzRGF0YS5sZW5ndGggKyAnIOihjCcpOwogICAgICB9IGVsc2UgewogICAgICAgIHdpbmRvdy5zZXRMeXJpY3NDb250ZW50SHRtbCgnPGRpdj7mmoLml6DmrYzor408L2Rpdj4nKTsKICAgICAgICB3aW5kb3cuZG9tLmx5cmljcy5jbGFzc0xpc3QuYWRkKCdlbXB0eScpOwogICAgICAgIHdpbmRvdy5kb20ubHlyaWNzLmRhdGFzZXQucGxhY2Vob2xkZXIgPSAnbWVzc2FnZSc7CiAgICAgICAgd2luZG93LnN0YXRlLmx5cmljc0RhdGEgPSBbXTsKICAgICAgICB3aW5kb3cuc3RhdGUuY3VycmVudEx5cmljTGluZSA9IC0xOwogICAgICAgIGlmICh3aW5kb3cuZGVidWdMb2cpIHdpbmRvdy5kZWJ1Z0xvZygn5q2M6K+N5Yqg6L295aSx6LSlOiDml6DmrYzor43mlbDmja4nKTsKICAgICAgfQogICAgfSBjYXRjaCAoZXJyb3IpIHsKICAgICAgaWYgKHdpbmRvdy5jb25zb2xlKSBjb25zb2xlLmVycm9yKCfliqDovb3mrYzor43lpLHotKU6JywgZXJyb3IpOwogICAgICAvLyDlh7rplJnml7blkIzmoLfnoa7orqTmnKrliIfmrYzlho3mmL7npLrplJnor6/mgIEKICAgICAgaWYgKHdpbmRvdy5zdGF0ZSAmJiB3aW5kb3cuc3RhdGUuY3VycmVudFNvbmcgIT09IHNvbmcpIHJldHVybjsKICAgICAgd2luZG93LnNldEx5cmljc0NvbnRlbnRIdG1sKCc8ZGl2PuatjOivjeWKoOi9veWksei0pTwvZGl2PicpOwogICAgICB3aW5kb3cuZG9tLmx5cmljcy5jbGFzc0xpc3QuYWRkKCdlbXB0eScpOwogICAgICB3aW5kb3cuZG9tLmx5cmljcy5kYXRhc2V0LnBsYWNlaG9sZGVyID0gJ21lc3NhZ2UnOwogICAgICB3aW5kb3cuc3RhdGUubHlyaWNzRGF0YSA9IFtdOwogICAgICB3aW5kb3cuc3RhdGUuY3VycmVudEx5cmljTGluZSA9IC0xOwogICAgICBpZiAod2luZG93LmRlYnVnTG9nKSB3aW5kb3cuZGVidWdMb2coJ+atjOivjeWKoOi9veWksei0pTogJyArIGVycm9yKTsKICAgIH0KICB9OwoKICBpZiAod2luZG93LmNvbnNvbGUpIGNvbnNvbGUubG9nKCdbYXVkaW8tZml4XSDpn7PpopHku6PnkIbooaXkuIHlt7LliqDovb3vvIjlkKvmrYzor43pmLLkuLLkv67lpI3vvIknKTsKfSkoKTsK
+/* Solara 音频播放修复补丁 (2026-10-13)
+ * 1. 网易云/酷我音频统一走站内 /proxy 代理，避免浏览器直连被防盗链或网络抖动卡住
+ * 2. waitForAudioReady 增加 15 秒超时，不再无限转圈
+ * 加载顺序：在 js/index.js 之后引入，覆盖同名全局函数
+ */
+(function () {
+  'use strict';
+
+  // --- 1. 音频地址走站内代理 ---
+  window.buildAudioProxyUrl = function (url) {
+    if (!url || typeof url !== 'string') return url;
+    try {
+      var parsedUrl = new URL(url, window.location.href);
+      if (/(^|\.)(kuwo\.cn|music\.126\.net)$/i.test(parsedUrl.hostname)) {
+        return '/proxy?target=' + encodeURIComponent(parsedUrl.toString());
+      }
+      return parsedUrl.toString();
+    } catch (e) {
+      if (window.console) console.warn('无法解析音频地址，跳过代理', e);
+      return url;
+    }
+  };
+
+  // --- 2. 音频就绪等待加超时 ---
+  window.waitForAudioReady = function (player, timeoutMs) {
+    if (!player) return Promise.resolve();
+    if (player.readyState >= 1) return Promise.resolve();
+    timeoutMs = timeoutMs || 15000;
+    return new Promise(function (resolve, reject) {
+      var timer = null;
+      function cleanup() {
+        if (timer) clearTimeout(timer);
+        player.removeEventListener('loadedmetadata', onLoaded);
+        player.removeEventListener('error', onError);
+      }
+      function onLoaded() { cleanup(); resolve(); }
+      function onError() { cleanup(); reject(new Error('音频加载失败')); }
+      function onTimeout() { cleanup(); reject(new Error('音频加载超时(15秒)，请检查网络后重试')); }
+      timer = setTimeout(onTimeout, timeoutMs);
+      player.addEventListener('loadedmetadata', onLoaded, { once: true });
+      player.addEventListener('error', onError, { once: true });
+    });
+  };
+
+  // --- 3. 歌词加载防串：fetch 返回后确认仍是当前歌曲才更新显示 ---
+  window.loadLyrics = async function (song) {
+    try {
+      var lyricUrl = window.API.getLyric(song);
+      if (window.debugLog) window.debugLog('获取歌词URL: ' + lyricUrl);
+
+      var lyricData = await window.API.fetchJson(lyricUrl);
+
+      // 关键修复：返回时如果已切歌，丢弃旧歌词，不覆盖显示
+      if (window.state && window.state.currentSong !== song) {
+        if (window.debugLog) window.debugLog('歌词已过期（切歌），丢弃');
+        return;
+      }
+
+      if (lyricData && lyricData.lyric) {
+        window.parseLyrics(lyricData.lyric);
+        window.dom.lyrics.classList.remove('empty');
+        window.dom.lyrics.dataset.placeholder = 'default';
+        if (window.debugLog) window.debugLog('歌词加载成功: ' + window.state.lyricsData.length + ' 行');
+      } else {
+        window.setLyricsContentHtml('<div>暂无歌词</div>');
+        window.dom.lyrics.classList.add('empty');
+        window.dom.lyrics.dataset.placeholder = 'message';
+        window.state.lyricsData = [];
+        window.state.currentLyricLine = -1;
+        if (window.debugLog) window.debugLog('歌词加载失败: 无歌词数据');
+      }
+    } catch (error) {
+      if (window.console) console.error('加载歌词失败:', error);
+      // 出错时同样确认未切歌再显示错误态
+      if (window.state && window.state.currentSong !== song) return;
+      window.setLyricsContentHtml('<div>歌词加载失败</div>');
+      window.dom.lyrics.classList.add('empty');
+      window.dom.lyrics.dataset.placeholder = 'message';
+      window.state.lyricsData = [];
+      window.state.currentLyricLine = -1;
+      if (window.debugLog) window.debugLog('歌词加载失败: ' + error);
+    }
+  };
+
+  if (window.console) console.log('[audio-fix] 音频代理补丁已加载（含歌词防串修复）');
+})();
